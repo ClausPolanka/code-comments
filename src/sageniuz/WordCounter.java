@@ -9,7 +9,7 @@ public class WordCounter {
      * <p/>
      * Examples:
      * <pre>
-     *                "inputText" / word count
+     *            "inputText" / word count
      *                "hello" / 1
      *          "hello world" / 2
      *  "  hello    world   " / 2
