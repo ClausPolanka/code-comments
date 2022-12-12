@@ -1,4 +1,4 @@
-package sageniuz.jbc.a;
+package sageniuz.jbc.a.superfluous;
 
 public class Supply {
     public boolean isContaminated() {
