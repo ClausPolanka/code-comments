@@ -1,4 +1,4 @@
-package sageniuz;
+package sageniuz.wordcounter;
 
 public class WordCounter {
 
