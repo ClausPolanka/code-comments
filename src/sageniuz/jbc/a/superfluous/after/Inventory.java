@@ -1,6 +1,6 @@
-package sageniuz.jbc.superfluous.after;
+package sageniuz.jbc.a.superfluous.after;
 
-import sageniuz.jbc.Supply;
+import sageniuz.jbc.a.Supply;
 
 import java.util.ArrayList;
 import java.util.List;

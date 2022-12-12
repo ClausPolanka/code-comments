@@ -1,4 +1,4 @@
-package sageniuz.jbc;
+package sageniuz.jbc.a;
 
 public class Supply {
     public boolean isContaminated() {
